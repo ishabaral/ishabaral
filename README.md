@@ -1,7 +1,4 @@
 <!-- If you're copying this please give a little credit -->
-
-## Skills
-
 - 🔭 I’m currently working on NextJS, NodeJS, MongoDB
 - 📫 How to reach me: https://www.linkedin.com/in/isha-baral-12b59a132/
 
