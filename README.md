@@ -3,8 +3,7 @@
 ## Skills
 
 - 🔭 I’m currently working on NextJS, NodeJS, MongoDB
-- 📫 How to reach me: baralisha16@gmail.com
-  https://www.linkedin.com/in/isha-baral-12b59a132/
+- 📫 How to reach me: https://www.linkedin.com/in/isha-baral-12b59a132/
 
 ## SKILLS
 
