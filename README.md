@@ -1,6 +1,7 @@
 <!-- If you're copying this please give a little credit -->
-- 🔭 I’m currently working on NextJS, NodeJS, MongoDB
-- 📫 How to reach me: https://www.linkedin.com/in/isha-baral-12b59a132/
+Full stack Developer
+- 🔭 Currently working on NextJS and MongoDB
+- 📫 Reach me on : https://www.linkedin.com/in/isha-baral-12b59a132/
 
 ## SKILLS
 
@@ -15,6 +16,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <!--
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
